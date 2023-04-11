@@ -1,7 +1,6 @@
 # PCG Collection (Point and Click Games Collection)
 
-- **'PCG Collection.exe'** is the compiled version of the application. Kindly run the exe file.
-- **'Files'** folder contains all the .py Files of the application.
+Run **main.py** to start the game.
 
 ## Controls of PCG Collection
 Press 'r' to restart game
