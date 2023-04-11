@@ -1,6 +1,6 @@
 # PCG Collection (Point and Click Games Collection)
 
-Run **main.py** to start the game (or **PCG Collection.exe**).
+Run **main.py** to start the game (or PCG Collection.exe).
 
 ## Controls of PCG Collection
 - Press 'r' to restart game
