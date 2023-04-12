@@ -25,6 +25,6 @@ Run **main.py** to start the game (or PCG Collection.exe).
 3. Use left click to stack
 
 # Made for SPCF
-    CCIS3A-SE2
+    CCIS4A-SE2
 - Mel Mathew Palaña
 - Jeffrey Mamac
