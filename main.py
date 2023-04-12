@@ -245,7 +245,7 @@ def get_player_name(game_loop=None):
                 if len(text) > 0:
                     return text
                 else:
-                    if sound_game_status:
+                    if config.sound_game_status:
                         error_sound.play()
                     input_color = red
 
