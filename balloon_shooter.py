@@ -1,9 +1,9 @@
 import config
 from config import *
 import main
-# BALLOON SHOOTER CHECK IF KITA
+# MIC TEST
 background = lightBlue
-TESTVAR = lightBlue
+
 margin = 100
 lowerBound = 60
 
