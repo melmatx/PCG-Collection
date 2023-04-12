@@ -2,7 +2,7 @@
 
 Run **main.py** to start the game (or PCG Collection.exe).
 
-You can run the games directly by clicking on their `.py` files:
+You can also run the games directly by clicking on their `.py` files:
 - balloon_shooter.py
 - dodge_the_ball.py
 - stacks.py
