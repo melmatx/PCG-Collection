@@ -82,6 +82,7 @@ end_game = mixer.Sound(os.path.join(path_to_assets, 'end.mp3'))
 gain_point = mixer.Sound(os.path.join(path_to_assets, 'point.mp3'))
 error_sound = mixer.Sound(os.path.join(path_to_assets, 'error.mp3'))
 
+# Random Test
 
 
 if __name__ == "__main__":
