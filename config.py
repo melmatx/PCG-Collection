@@ -84,7 +84,6 @@ error_sound = mixer.Sound(os.path.join(path_to_assets, 'error.mp3'))
 
 # Random Test
 
-
 if __name__ == "__main__":
     print("=============================================")
     print("ERROR: Run main.py to start PCG Collection!")
