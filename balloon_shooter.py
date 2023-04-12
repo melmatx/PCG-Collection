@@ -1,7 +1,7 @@
 import config
 from config import *
 import main
-# ETO 3RD TEST
+# ETO 4TH TEST
 background = lightBlue
 
 margin = 100
