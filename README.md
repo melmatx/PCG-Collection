@@ -8,9 +8,9 @@ You can also run the games directly by clicking on their `.py` files:
 - stacks.py
 
 ## Controls of PCG Collection
-- Press **'r'** to restart game
-- Press **'q'** to close game
-- Press **escape** or **'esc'** to go back to main menu
+- Press 'r' to restart game
+- Press 'q' to close game
+- Press escape or 'esc' to go back to main menu
 
 ## How to play Balloon Shooter?
 1. Open PCG Collection.exe
