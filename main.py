@@ -245,6 +245,7 @@ def get_player_name(game_loop=None):
                 if len(text) > 0:
                     return text
                 else:
+                    error_sound.play()
                     input_color = red
 
             if cancel_button.draw():
