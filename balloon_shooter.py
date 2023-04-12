@@ -1,7 +1,7 @@
 import config
 from config import *
 import main
-# MTEEEEEEST
+# ETO B2ND TEST
 background = lightBlue
 
 margin = 100
