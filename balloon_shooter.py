@@ -1,7 +1,7 @@
 import config
 from config import *
 import main
-# MIC TEST
+# MTEEEEEEST
 background = lightBlue
 
 margin = 100
