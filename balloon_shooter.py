@@ -1,7 +1,7 @@
 import config
 from config import *
 import main
-# ETO 5TH TEST
+# ETO 5TH TESTasd
 background = lightBlue
 
 margin = 100
