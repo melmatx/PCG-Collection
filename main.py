@@ -332,7 +332,7 @@ def play_menu_music():
     mixer.music.set_volume(.5)
 
 
-def btn_pos(index, x=150, y=240, gap=60):
+def btn_pos(index, x=150, y=220, gap=60):
     return x, y + (gap * index)  # Result: (150, 320) for index=1
 
 
@@ -349,7 +349,7 @@ game2_btn = Button('Game 2', btn_width, btn_height, btn_pos(1), btn_shadow)
 game3_btn = Button('Game 3', btn_width, btn_height, btn_pos(2), btn_shadow)
 controls_btn = Button('Controls', btn_width, btn_height, btn_pos(3), btn_shadow)
 leaderboard_btn = Button('Leaderboard', btn_width, btn_height, btn_pos(4), btn_shadow)
-mute_btn = Button("Mute", smaller_btn_width, smaller_btn_height, btn_pos(5, x=400), btn_shadow)
+mute_btn = Button("Mute", smaller_btn_width, smaller_btn_height, (405, 535), btn_shadow)
 
 # Title Text
 first_text = font(font_size["Large"]).render(
