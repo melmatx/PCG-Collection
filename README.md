@@ -33,5 +33,5 @@ You can also run the games directly by clicking on their `.py` files:
 - Mel Mathew Palaña
 - Jeffrey Mamac
 
-# Made for SPCF
+## Made for SPCF
     CCIS4A-SE2
