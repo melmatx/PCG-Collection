@@ -30,6 +30,6 @@ You can also run the games directly by clicking on their `.py` files:
 3. Use left click to stack
 
 # Made for SPCF
-    CCIS4A-SE2
 - Mel Mathew Palaña
 - Jeffrey Mamac
+    CCIS4A-SE2
