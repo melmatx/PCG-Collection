@@ -1,6 +1,6 @@
 # PCG Collection (Point and Click Games Collection)
 
-Run **main.py** to start the game (or PCG Collection.exe).
+Run **main.py** to start the game (or [PCG Collection.exe](https://github.com/melmatx/PCG-Collection/blob/master/PCG%20Collection.exe)).
 
 You can also run the games directly by clicking on their `.py` files:
 - balloon_shooter.py
