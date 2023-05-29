@@ -2,6 +2,8 @@
 
 Run **main.py** to start the game (or [PCG Collection.exe](https://github.com/melmatx/PCG-Collection/blob/master/PCG%20Collection.exe)).
 
+<img width="612" alt="Screenshot 2023-05-29 at 7 24 53 PM" src="https://github.com/melmatx/PCG-Collection/assets/87235413/42afb6f7-fa19-4a1b-b76a-4d3a91292f92">
+
 You can also run the games directly by clicking on their `.py` files:
 - balloon_shooter.py
 - dodge_the_ball.py
